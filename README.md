@@ -34,7 +34,7 @@ If you enter '.', the field will be left blank.
             Email Address []:waleedshahbaz012@gmail.com
             
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task1.PNG)
+![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task1.jpg)
 
 
 # Task 2
@@ -128,7 +128,7 @@ coefficient:
 ```
 -----END RSA PRIVATE KEY-----
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2d.PNG)
+![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2d.jpg)
 
 
            openssl req -new -key server.key -out server.csr -config openssl.cnf
@@ -157,7 +157,7 @@ A challenge password []:asadali
 An optional company name []:
 
 
-![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2e.PNG)
+![alt tag](https://github.com/Waleed-gif/Public-Key-Infrastructure-PKI-/blob/main/task2e.jpg)
 
 
 
